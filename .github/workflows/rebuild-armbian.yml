@@ -224,7 +224,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - zylj
 
 env:
   TZ: America/New_York
